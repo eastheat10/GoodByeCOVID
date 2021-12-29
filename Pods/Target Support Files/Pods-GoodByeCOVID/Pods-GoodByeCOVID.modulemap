@@ -1,0 +1,6 @@
+framework module Pods_GoodByeCOVID {
+  umbrella header "Pods-GoodByeCOVID-umbrella.h"
+
+  export *
+  module * { export * }
+}
